@@ -1,0 +1,10 @@
+WTA_learning_objectves(Iveta Bartošová)
+úvod do testovania
+techniky testovania
+test rail
+jira
+testovanie hraničnými hodnotami
+HTML, CSS, Java
+SQL
+testovanie API
+GIT, Gitkraken
