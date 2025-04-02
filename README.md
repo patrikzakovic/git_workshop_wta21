@@ -4,4 +4,5 @@
  * git clone
  * git add/commit
  * git pull
+ * git conflict
  * git push
