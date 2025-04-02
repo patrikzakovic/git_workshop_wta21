@@ -3,10 +3,11 @@ Iveta Bartosova
 =======
 file1
 daniela
-<<<<<<< Updated upstream
+
 Zuzana 
 =======
 Tatiana Vakerman
->>>>>>> Stashed changes
+11111111
+
 >>>>>>> origin/main
 Iveta Bartosova
