@@ -1,4 +1,9 @@
 linda
+<<<<<<< HEAD
 Majka
 
 
+=======
+
+Majka
+>>>>>>> origin/main
