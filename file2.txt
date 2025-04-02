@@ -7,6 +7,7 @@ zuzana k
 =======
 Zuzana Abelovská
 Radka Stanova
+<<<<<<< HEAD
 Eva
 =======
 Zuzana Abelovská
@@ -15,3 +16,6 @@ Eva
 
 Kristina Konecna
 >>>>>>> origin/main
+=======
+Eva
+>>>>>>> origin/AnitaPisová
