@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 file1
 
 slavka
@@ -38,9 +39,16 @@ Iveta Bartosova
 >>>>>>> Stashed changes
 >>>>>>> origin/main
 =======
+=======
+>>>>>>> origin/main
 file1
 daniela
 Zuzana 
 Patrik
 Tatiana Vakerman
+<<<<<<< HEAD
+=======
+=======
+Jana Suchova
+>>>>>>> origin/main
 >>>>>>> origin/main
