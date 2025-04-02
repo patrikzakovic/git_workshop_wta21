@@ -1,16 +1,15 @@
-
-    #**ÚVOD DO TESTOVANIA**
-    ##**Čo je testovanie:**
-    >- je to súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu z hľadiska:
+# **ÚVOD DO TESTOVANIA**
+## **Čo je testovanie:**
+>- je to súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu z hľadiska:
         - funkčnosti
         - spoľahlivosti
         - používateľnosti
         - výkonnosti
         - bezpečnosti
 
-    > môže dokázať prítomnosť chýb ** (ale nikdy ich neprítomnosť) **. 
+> môže dokázať prítomnosť chýb ** (ale nikdy ich neprítomnosť) **. 
 
-    ## ** 7 Princípov testovania: *
+## ** 7 Princípov testovania: *
     <ol>
     <li> 1. testovanie ukazuje na prítomnosť defektov ale nikdy na ich neprítomnosť</li>
     <li> 2. vyčerpávajúce testovanie je nemožné</li>
