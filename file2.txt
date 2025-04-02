@@ -1,13 +1,10 @@
 file2
-<<<<<<< HEAD
 Kristina Konecna
 Zuzana Abelovská
 Radka Stanova
 Eva
-=======
+zuzana k
 Zuzana Abelovská
 Radka Stanova
 Eva
-
 Kristina Konecna
->>>>>>> origin/main
