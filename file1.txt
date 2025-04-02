@@ -2,6 +2,7 @@
 Iveta Bartosova
 =======
 file1
+daniela
 <<<<<<< Updated upstream
 Zuzana 
 =======
