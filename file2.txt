@@ -1,14 +1,23 @@
 file2
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kristina Konecna
 <<<<<<< HEAD
 
 zuzana k
 =======
+=======
+Kristina Konecna
+Zuzana Abelovská
+Radka Stanova
+Eva
+zuzana k
+>>>>>>> origin/main
 Zuzana Abelovská
 Radka Stanova
 <<<<<<< HEAD
 Eva
+<<<<<<< HEAD
 =======
 Zuzana Abelovská
 Radka Stanova
@@ -19,3 +28,6 @@ Kristina Konecna
 =======
 Eva
 >>>>>>> origin/AnitaPisová
+=======
+Kristina Konecna
+>>>>>>> origin/main
