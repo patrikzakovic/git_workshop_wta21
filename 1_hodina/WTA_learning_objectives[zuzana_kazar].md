@@ -1,10 +1,10 @@
-#h1 **Úvod do testovania** :joy:
+#  **Úvod do testovania** :joy:
 
 1. ## *==Session based testing==*
-
+==Session based testing==
 Session-based testing je metodika testovania, ktorá sa zameriava na vykonávanie testov sessionoch. 
 
-2. ## *Jira and Bug*
+## 2. Jira  and Bug
 
 JIRA je nástroj na správu projektov a sledovanie problémov, ktorý sa často používa v softvérovom vývoji a testovaní. Bug je špecifický typ problému, ktorý sa týka chýb alebo nefunkčných častí softvéru.
 
