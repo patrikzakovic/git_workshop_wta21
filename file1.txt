@@ -5,6 +5,7 @@ file1
 daniela
 <<<<<<< Updated upstream
 Zuzana 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 Tatiana Vakerman
@@ -12,4 +13,19 @@ Tatiana Vakerman
 Iveta Bartosova
 
 Viki HA
+=======
+Patrik
+Tatiana Vakerman
+=======
+
+Zuzana 
+=======
+Tatiana Vakerman
+11111111
+
+>>>>>>> origin/main
+Iveta Bartosova
+>>>>>>> origin/main
+
+>>>>>>> origin/main
 >>>>>>> Stashed changes
