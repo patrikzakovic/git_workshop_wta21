@@ -1,8 +1,19 @@
 file2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kristina Konecna
 <<<<<<< HEAD
+=======
+Kristina Konecna
+<<<<<<< HEAD
+<<<<<<< HEAD
+Zuzana Abelovská
+Radka Stanova
+Eva
+=======
+=======
+>>>>>>> origin/radka_stanova
 
 zuzana k
 =======
