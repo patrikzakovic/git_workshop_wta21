@@ -1,7 +1,5 @@
 file1
 daniela
-<<<<<<< Updated upstream
 Zuzana 
-=======
+Patrik
 Tatiana Vakerman
->>>>>>> Stashed changes
