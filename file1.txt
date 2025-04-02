@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 file1
 daniela
 Zuzana 
 Patrik
 Tatiana Vakerman
+=======
+Jana Suchova
+>>>>>>> origin/main
