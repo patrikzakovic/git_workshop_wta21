@@ -1,6 +1,1 @@
-file1
-<<<<<<< Updated upstream
-Zuzana 
-=======
-Tatiana Vakerman
->>>>>>> Stashed changes
+Jana Suchova
