@@ -7,4 +7,15 @@ daniela
 Zuzana 
 Patrik
 Tatiana Vakerman
+=======
+
+Zuzana 
+=======
+Tatiana Vakerman
+11111111
+
+>>>>>>> origin/main
+Iveta Bartosova
+>>>>>>> origin/main
+
 >>>>>>> Stashed changes
