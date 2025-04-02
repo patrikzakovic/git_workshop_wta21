@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Iveta Bartosova
+=======
 file1
 daniela
 <<<<<<< Updated upstream
@@ -6,7 +9,7 @@ Zuzana
 =======
 Tatiana Vakerman
 >>>>>>> Stashed changes
-=======
+Iveta Bartosova
 
 Viki HA
 >>>>>>> Stashed changes
