@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Iveta Bartosova
+=======
+file1
+<<<<<<< Updated upstream
+Zuzana 
+=======
+Tatiana Vakerman
+>>>>>>> Stashed changes
+>>>>>>> origin/main
